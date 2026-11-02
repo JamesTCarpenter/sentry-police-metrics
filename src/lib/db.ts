@@ -10,7 +10,8 @@ export function getDatabase(): Database.Database {
     return database;
   }
 
-  const databasePath = path.join(process.cwd(), "data", "metrics.db");
+  const databasePath =
+    process.env.DATABASE_PATH ?? path.join(process.cwd(), "data", "metrics.db");
 
   database = new Database(databasePath, {
     readonly: true,
