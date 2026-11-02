@@ -1,0 +1,1247 @@
+{
+  "totals": {
+    "records": 381870,
+    "located": 369849,
+    "unlocated": 12021,
+    "missingCoordinates": 0,
+    "invalidCoordinates": 0,
+    "missingDatetime": 0,
+    "invalidDatetime": 0,
+    "missingLocationObject": 12021,
+    "missingFields": {
+      "age_range": 44931,
+      "gender": 15295,
+      "self_defined_ethnicity": 9684,
+      "officer_defined_ethnicity": 21854,
+      "outcome": 73,
+      "object_of_search": 1287
+    }
+  },
+  "reports": [
+    {
+      "month": "2023-09",
+      "source": "located",
+      "total": 12033,
+      "missingFields": {
+        "age_range": 1837,
+        "gender": 130,
+        "self_defined_ethnicity": 131,
+        "officer_defined_ethnicity": 290,
+        "outcome": 0,
+        "object_of_search": 28
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 1231
+    },
+    {
+      "month": "2023-09",
+      "source": "unlocated",
+      "total": 1231,
+      "missingFields": {
+        "age_range": 192,
+        "gender": 9,
+        "self_defined_ethnicity": 9,
+        "officer_defined_ethnicity": 28,
+        "outcome": 0,
+        "object_of_search": 7
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2023-10",
+      "source": "located",
+      "total": 11740,
+      "missingFields": {
+        "age_range": 1785,
+        "gender": 112,
+        "self_defined_ethnicity": 110,
+        "officer_defined_ethnicity": 268,
+        "outcome": 0,
+        "object_of_search": 24
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 1208
+    },
+    {
+      "month": "2023-10",
+      "source": "unlocated",
+      "total": 1208,
+      "missingFields": {
+        "age_range": 234,
+        "gender": 12,
+        "self_defined_ethnicity": 13,
+        "officer_defined_ethnicity": 28,
+        "outcome": 0,
+        "object_of_search": 4
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2023-11",
+      "source": "located",
+      "total": 9130,
+      "missingFields": {
+        "age_range": 1479,
+        "gender": 108,
+        "self_defined_ethnicity": 107,
+        "officer_defined_ethnicity": 254,
+        "outcome": 0,
+        "object_of_search": 15
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 936
+    },
+    {
+      "month": "2023-11",
+      "source": "unlocated",
+      "total": 936,
+      "missingFields": {
+        "age_range": 166,
+        "gender": 9,
+        "self_defined_ethnicity": 9,
+        "officer_defined_ethnicity": 30,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2023-12",
+      "source": "located",
+      "total": 9086,
+      "missingFields": {
+        "age_range": 1329,
+        "gender": 104,
+        "self_defined_ethnicity": 109,
+        "officer_defined_ethnicity": 215,
+        "outcome": 0,
+        "object_of_search": 20
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 914
+    },
+    {
+      "month": "2023-12",
+      "source": "unlocated",
+      "total": 914,
+      "missingFields": {
+        "age_range": 144,
+        "gender": 8,
+        "self_defined_ethnicity": 8,
+        "officer_defined_ethnicity": 20,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-01",
+      "source": "located",
+      "total": 9689,
+      "missingFields": {
+        "age_range": 1299,
+        "gender": 111,
+        "self_defined_ethnicity": 108,
+        "officer_defined_ethnicity": 258,
+        "outcome": 0,
+        "object_of_search": 20
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 1003
+    },
+    {
+      "month": "2024-01",
+      "source": "unlocated",
+      "total": 1003,
+      "missingFields": {
+        "age_range": 129,
+        "gender": 9,
+        "self_defined_ethnicity": 9,
+        "officer_defined_ethnicity": 23,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-02",
+      "source": "located",
+      "total": 9179,
+      "missingFields": {
+        "age_range": 1255,
+        "gender": 0,
+        "self_defined_ethnicity": 821,
+        "officer_defined_ethnicity": 249,
+        "outcome": 0,
+        "object_of_search": 26
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 880
+    },
+    {
+      "month": "2024-02",
+      "source": "unlocated",
+      "total": 880,
+      "missingFields": {
+        "age_range": 135,
+        "gender": 0,
+        "self_defined_ethnicity": 81,
+        "officer_defined_ethnicity": 28,
+        "outcome": 0,
+        "object_of_search": 3
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-03",
+      "source": "located",
+      "total": 10681,
+      "missingFields": {
+        "age_range": 1161,
+        "gender": 0,
+        "self_defined_ethnicity": 110,
+        "officer_defined_ethnicity": 308,
+        "outcome": 0,
+        "object_of_search": 17
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 734
+    },
+    {
+      "month": "2024-03",
+      "source": "unlocated",
+      "total": 734,
+      "missingFields": {
+        "age_range": 64,
+        "gender": 0,
+        "self_defined_ethnicity": 4,
+        "officer_defined_ethnicity": 17,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-04",
+      "source": "located",
+      "total": 9002,
+      "missingFields": {
+        "age_range": 926,
+        "gender": 0,
+        "self_defined_ethnicity": 81,
+        "officer_defined_ethnicity": 325,
+        "outcome": 0,
+        "object_of_search": 8
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 701
+    },
+    {
+      "month": "2024-04",
+      "source": "unlocated",
+      "total": 701,
+      "missingFields": {
+        "age_range": 63,
+        "gender": 0,
+        "self_defined_ethnicity": 3,
+        "officer_defined_ethnicity": 27,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-05",
+      "source": "located",
+      "total": 9130,
+      "missingFields": {
+        "age_range": 954,
+        "gender": 0,
+        "self_defined_ethnicity": 91,
+        "officer_defined_ethnicity": 323,
+        "outcome": 1,
+        "object_of_search": 15
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 687
+    },
+    {
+      "month": "2024-05",
+      "source": "unlocated",
+      "total": 687,
+      "missingFields": {
+        "age_range": 56,
+        "gender": 0,
+        "self_defined_ethnicity": 8,
+        "officer_defined_ethnicity": 24,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-06",
+      "source": "located",
+      "total": 8720,
+      "missingFields": {
+        "age_range": 944,
+        "gender": 0,
+        "self_defined_ethnicity": 93,
+        "officer_defined_ethnicity": 296,
+        "outcome": 1,
+        "object_of_search": 23
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 663
+    },
+    {
+      "month": "2024-06",
+      "source": "unlocated",
+      "total": 663,
+      "missingFields": {
+        "age_range": 54,
+        "gender": 0,
+        "self_defined_ethnicity": 5,
+        "officer_defined_ethnicity": 16,
+        "outcome": 0,
+        "object_of_search": 2
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-07",
+      "source": "located",
+      "total": 8824,
+      "missingFields": {
+        "age_range": 933,
+        "gender": 0,
+        "self_defined_ethnicity": 99,
+        "officer_defined_ethnicity": 354,
+        "outcome": 0,
+        "object_of_search": 25
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 756
+    },
+    {
+      "month": "2024-07",
+      "source": "unlocated",
+      "total": 756,
+      "missingFields": {
+        "age_range": 71,
+        "gender": 0,
+        "self_defined_ethnicity": 15,
+        "officer_defined_ethnicity": 32,
+        "outcome": 0,
+        "object_of_search": 3
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-08",
+      "source": "located",
+      "total": 10638,
+      "missingFields": {
+        "age_range": 1532,
+        "gender": 0,
+        "self_defined_ethnicity": 109,
+        "officer_defined_ethnicity": 412,
+        "outcome": 0,
+        "object_of_search": 20
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 746
+    },
+    {
+      "month": "2024-08",
+      "source": "unlocated",
+      "total": 746,
+      "missingFields": {
+        "age_range": 92,
+        "gender": 0,
+        "self_defined_ethnicity": 11,
+        "officer_defined_ethnicity": 30,
+        "outcome": 0,
+        "object_of_search": 3
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-09",
+      "source": "located",
+      "total": 10111,
+      "missingFields": {
+        "age_range": 1137,
+        "gender": 1652,
+        "self_defined_ethnicity": 158,
+        "officer_defined_ethnicity": 1005,
+        "outcome": 1,
+        "object_of_search": 16
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 330
+    },
+    {
+      "month": "2024-09",
+      "source": "unlocated",
+      "total": 330,
+      "missingFields": {
+        "age_range": 21,
+        "gender": 46,
+        "self_defined_ethnicity": 2,
+        "officer_defined_ethnicity": 32,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-10",
+      "source": "located",
+      "total": 11002,
+      "missingFields": {
+        "age_range": 1206,
+        "gender": 1831,
+        "self_defined_ethnicity": 121,
+        "officer_defined_ethnicity": 1067,
+        "outcome": 0,
+        "object_of_search": 16
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 86
+    },
+    {
+      "month": "2024-10",
+      "source": "unlocated",
+      "total": 86,
+      "missingFields": {
+        "age_range": 3,
+        "gender": 8,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 12,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-11",
+      "source": "located",
+      "total": 11091,
+      "missingFields": {
+        "age_range": 1231,
+        "gender": 1938,
+        "self_defined_ethnicity": 175,
+        "officer_defined_ethnicity": 1140,
+        "outcome": 0,
+        "object_of_search": 10
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 109
+    },
+    {
+      "month": "2024-11",
+      "source": "unlocated",
+      "total": 109,
+      "missingFields": {
+        "age_range": 12,
+        "gender": 14,
+        "self_defined_ethnicity": 6,
+        "officer_defined_ethnicity": 13,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2024-12",
+      "source": "located",
+      "total": 9291,
+      "missingFields": {
+        "age_range": 1005,
+        "gender": 1679,
+        "self_defined_ethnicity": 160,
+        "officer_defined_ethnicity": 1080,
+        "outcome": 0,
+        "object_of_search": 19
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 63
+    },
+    {
+      "month": "2024-12",
+      "source": "unlocated",
+      "total": 63,
+      "missingFields": {
+        "age_range": 4,
+        "gender": 10,
+        "self_defined_ethnicity": 2,
+        "officer_defined_ethnicity": 10,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-01",
+      "source": "located",
+      "total": 11634,
+      "missingFields": {
+        "age_range": 1231,
+        "gender": 2138,
+        "self_defined_ethnicity": 197,
+        "officer_defined_ethnicity": 1256,
+        "outcome": 0,
+        "object_of_search": 19
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 85
+    },
+    {
+      "month": "2025-01",
+      "source": "unlocated",
+      "total": 85,
+      "missingFields": {
+        "age_range": 6,
+        "gender": 10,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 12,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-02",
+      "source": "located",
+      "total": 10489,
+      "missingFields": {
+        "age_range": 1142,
+        "gender": 1791,
+        "self_defined_ethnicity": 154,
+        "officer_defined_ethnicity": 1115,
+        "outcome": 0,
+        "object_of_search": 14
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 74
+    },
+    {
+      "month": "2025-02",
+      "source": "unlocated",
+      "total": 74,
+      "missingFields": {
+        "age_range": 5,
+        "gender": 4,
+        "self_defined_ethnicity": 1,
+        "officer_defined_ethnicity": 8,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-03",
+      "source": "located",
+      "total": 11116,
+      "missingFields": {
+        "age_range": 1224,
+        "gender": 1818,
+        "self_defined_ethnicity": 154,
+        "officer_defined_ethnicity": 1009,
+        "outcome": 0,
+        "object_of_search": 23
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 96
+    },
+    {
+      "month": "2025-03",
+      "source": "unlocated",
+      "total": 96,
+      "missingFields": {
+        "age_range": 9,
+        "gender": 11,
+        "self_defined_ethnicity": 2,
+        "officer_defined_ethnicity": 12,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-04",
+      "source": "located",
+      "total": 10779,
+      "missingFields": {
+        "age_range": 1284,
+        "gender": 1722,
+        "self_defined_ethnicity": 174,
+        "officer_defined_ethnicity": 1119,
+        "outcome": 0,
+        "object_of_search": 27
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 80
+    },
+    {
+      "month": "2025-04",
+      "source": "unlocated",
+      "total": 80,
+      "missingFields": {
+        "age_range": 4,
+        "gender": 11,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 14,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-05",
+      "source": "located",
+      "total": 10688,
+      "missingFields": {
+        "age_range": 1261,
+        "gender": 0,
+        "self_defined_ethnicity": 183,
+        "officer_defined_ethnicity": 494,
+        "outcome": 3,
+        "object_of_search": 30
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 45
+    },
+    {
+      "month": "2025-05",
+      "source": "unlocated",
+      "total": 45,
+      "missingFields": {
+        "age_range": 8,
+        "gender": 0,
+        "self_defined_ethnicity": 1,
+        "officer_defined_ethnicity": 3,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-06",
+      "source": "located",
+      "total": 10663,
+      "missingFields": {
+        "age_range": 1173,
+        "gender": 0,
+        "self_defined_ethnicity": 140,
+        "officer_defined_ethnicity": 421,
+        "outcome": 0,
+        "object_of_search": 218
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 31
+    },
+    {
+      "month": "2025-06",
+      "source": "unlocated",
+      "total": 31,
+      "missingFields": {
+        "age_range": 5,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 0,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-07",
+      "source": "located",
+      "total": 11254,
+      "missingFields": {
+        "age_range": 1155,
+        "gender": 0,
+        "self_defined_ethnicity": 142,
+        "officer_defined_ethnicity": 475,
+        "outcome": 1,
+        "object_of_search": 291
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 36
+    },
+    {
+      "month": "2025-07",
+      "source": "unlocated",
+      "total": 36,
+      "missingFields": {
+        "age_range": 2,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 0,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-08",
+      "source": "located",
+      "total": 14899,
+      "missingFields": {
+        "age_range": 2270,
+        "gender": 0,
+        "self_defined_ethnicity": 176,
+        "officer_defined_ethnicity": 663,
+        "outcome": 0,
+        "object_of_search": 26
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 57
+    },
+    {
+      "month": "2025-08",
+      "source": "unlocated",
+      "total": 57,
+      "missingFields": {
+        "age_range": 3,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 3,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-09",
+      "source": "located",
+      "total": 11151,
+      "missingFields": {
+        "age_range": 1202,
+        "gender": 0,
+        "self_defined_ethnicity": 161,
+        "officer_defined_ethnicity": 513,
+        "outcome": 0,
+        "object_of_search": 40
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 42
+    },
+    {
+      "month": "2025-09",
+      "source": "unlocated",
+      "total": 42,
+      "missingFields": {
+        "age_range": 3,
+        "gender": 0,
+        "self_defined_ethnicity": 2,
+        "officer_defined_ethnicity": 4,
+        "outcome": 0,
+        "object_of_search": 2
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-10",
+      "source": "located",
+      "total": 11749,
+      "missingFields": {
+        "age_range": 1263,
+        "gender": 0,
+        "self_defined_ethnicity": 198,
+        "officer_defined_ethnicity": 547,
+        "outcome": 0,
+        "object_of_search": 25
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 49
+    },
+    {
+      "month": "2025-10",
+      "source": "unlocated",
+      "total": 49,
+      "missingFields": {
+        "age_range": 5,
+        "gender": 0,
+        "self_defined_ethnicity": 2,
+        "officer_defined_ethnicity": 6,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-11",
+      "source": "located",
+      "total": 12355,
+      "missingFields": {
+        "age_range": 1373,
+        "gender": 0,
+        "self_defined_ethnicity": 165,
+        "officer_defined_ethnicity": 589,
+        "outcome": 0,
+        "object_of_search": 21
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 40
+    },
+    {
+      "month": "2025-11",
+      "source": "unlocated",
+      "total": 40,
+      "missingFields": {
+        "age_range": 1,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 5,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2025-12",
+      "source": "located",
+      "total": 11861,
+      "missingFields": {
+        "age_range": 1514,
+        "gender": 0,
+        "self_defined_ethnicity": 219,
+        "officer_defined_ethnicity": 625,
+        "outcome": 0,
+        "object_of_search": 19
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 35
+    },
+    {
+      "month": "2025-12",
+      "source": "unlocated",
+      "total": 35,
+      "missingFields": {
+        "age_range": 3,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 1,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2026-01",
+      "source": "located",
+      "total": 12295,
+      "missingFields": {
+        "age_range": 1386,
+        "gender": 0,
+        "self_defined_ethnicity": 228,
+        "officer_defined_ethnicity": 577,
+        "outcome": 2,
+        "object_of_search": 26
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 76
+    },
+    {
+      "month": "2026-01",
+      "source": "unlocated",
+      "total": 76,
+      "missingFields": {
+        "age_range": 2,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 2,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2026-02",
+      "source": "located",
+      "total": 11734,
+      "missingFields": {
+        "age_range": 1305,
+        "gender": 0,
+        "self_defined_ethnicity": 188,
+        "officer_defined_ethnicity": 541,
+        "outcome": 16,
+        "object_of_search": 32
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 86
+    },
+    {
+      "month": "2026-02",
+      "source": "unlocated",
+      "total": 86,
+      "missingFields": {
+        "age_range": 3,
+        "gender": 0,
+        "self_defined_ethnicity": 1,
+        "officer_defined_ethnicity": 5,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2026-04",
+      "source": "located",
+      "total": 12203,
+      "missingFields": {
+        "age_range": 1332,
+        "gender": 0,
+        "self_defined_ethnicity": 161,
+        "officer_defined_ethnicity": 505,
+        "outcome": 12,
+        "object_of_search": 28
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 66
+    },
+    {
+      "month": "2026-04",
+      "source": "unlocated",
+      "total": 66,
+      "missingFields": {
+        "age_range": 4,
+        "gender": 0,
+        "self_defined_ethnicity": 1,
+        "officer_defined_ethnicity": 3,
+        "outcome": 0,
+        "object_of_search": 1
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2026-05",
+      "source": "located",
+      "total": 12004,
+      "missingFields": {
+        "age_range": 1130,
+        "gender": 0,
+        "self_defined_ethnicity": 1406,
+        "officer_defined_ethnicity": 1048,
+        "outcome": 9,
+        "object_of_search": 47
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 35
+    },
+    {
+      "month": "2026-05",
+      "source": "unlocated",
+      "total": 35,
+      "missingFields": {
+        "age_range": 1,
+        "gender": 0,
+        "self_defined_ethnicity": 3,
+        "officer_defined_ethnicity": 1,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2026-06",
+      "source": "located",
+      "total": 11540,
+      "missingFields": {
+        "age_range": 1033,
+        "gender": 0,
+        "self_defined_ethnicity": 1410,
+        "officer_defined_ethnicity": 971,
+        "outcome": 12,
+        "object_of_search": 35
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 2
+    },
+    {
+      "month": "2026-06",
+      "source": "unlocated",
+      "total": 2,
+      "missingFields": {
+        "age_range": 0,
+        "gender": 0,
+        "self_defined_ethnicity": 0,
+        "officer_defined_ethnicity": 0,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    },
+    {
+      "month": "2026-07",
+      "source": "located",
+      "total": 12088,
+      "missingFields": {
+        "age_range": 1134,
+        "gender": 0,
+        "self_defined_ethnicity": 1442,
+        "officer_defined_ethnicity": 1091,
+        "outcome": 15,
+        "object_of_search": 32
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 39
+    },
+    {
+      "month": "2026-07",
+      "source": "unlocated",
+      "total": 39,
+      "missingFields": {
+        "age_range": 2,
+        "gender": 0,
+        "self_defined_ethnicity": 5,
+        "officer_defined_ethnicity": 2,
+        "outcome": 0,
+        "object_of_search": 0
+      },
+      "missingCoordinates": 0,
+      "invalidCoordinates": 0,
+      "missingDatetime": 0,
+      "invalidDatetime": 0,
+      "missingLocationObject": 0
+    }
+  ],
+  "failures": []
+}

@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Police.uk raw datasets
+/data/raw/
+
+# SQLite database and temporary files
+/data/metrics.db
+*.db-shm
+*.db-wal
